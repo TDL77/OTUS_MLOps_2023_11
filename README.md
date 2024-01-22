@@ -1,2 +1,2 @@
 # OTUS_MLOps_2023_11
-ДЗ в проекту обучение OTUS MLOps 
+ДЗ по проекту обучение OTUS MLOps 
