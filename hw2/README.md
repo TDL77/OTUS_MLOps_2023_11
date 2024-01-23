@@ -62,5 +62,6 @@
 
 ## Задание 6. Kanban доска
 https://github.com/users/TDL77/projects/1
+
 https://github.com/users/TDL77/projects/2/
 
